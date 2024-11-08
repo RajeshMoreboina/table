@@ -1,0 +1,2 @@
+/*CJA where we have one class Insta it contains two private fields like user name and password then provide setter and getter methods for these variables and we have a separate class user here if your user wants to update the password then update the password and show the updated values
+or else if he wants to update the user then update the user and display the updated user name or else if user wants to update both user name and password then update both. then display the updated values here update by using constructor Injection by providing dynamic inputs*/
